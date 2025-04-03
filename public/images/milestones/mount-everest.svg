@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <g>
+    <!-- Sky -->
+    <rect fill="#87CEEB" x="0" y="0" width="200" height="140"/>
+
+    <!-- Mountains -->
+    <path fill="#6C6C6C" d="M200,140L160,80L140,100L120,70L100,90L80,40L60,60L40,30L0,140L200,140z"/>
+
+    <!-- Snow caps -->
+    <path fill="#FFFFFF" d="M160,80L150,90L140,100L130,90L120,70L110,80L100,90L90,70L80,40L70,50L60,60L50,50L40,30L30,50L0,80v10l40-40l20,30l20-20l20,50l20-20l20,30l20-30l20,20l20-40v30L160,80z"/>
+
+    <!-- Ground -->
+    <rect fill="#8B4513" x="0" y="140" width="200" height="60"/>
+
+    <!-- Mountain flag -->
+    <line stroke="#FF0000" stroke-width="2" x1="80" y1="40" x2="80" y2="25"/>
+    <polygon fill="#FF0000" points="80,25 90,30 80,35"/>
+  </g>
+</svg>

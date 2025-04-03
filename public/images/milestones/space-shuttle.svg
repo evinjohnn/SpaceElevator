@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <g>
+    <!-- Main body -->
+    <path fill="#FFFFFF" stroke="#555555" stroke-width="2" d="M60,130c0,0,0-70,0-80c0-10,10-20,40-20s40,10,40,20c0,10,0,80,0,80H60z"/>
+
+    <!-- Windows -->
+    <circle fill="#87CEEB" cx="90" cy="50" r="5"/>
+    <circle fill="#87CEEB" cx="110" cy="50" r="5"/>
+
+    <!-- Nose cone -->
+    <path fill="#FFFFFF" stroke="#555555" stroke-width="2" d="M100,30c-30,0-40,10-40,20v10c0-10,10-20,40-20s40,10,40,20V50C140,40,130,30,100,30z"/>
+
+    <!-- Main engine -->
+    <rect fill="#FF4500" x="80" y="130" width="40" height="20"/>
+    <path fill="#FFA500" d="M85,150c0,0,5,15,15,15s15-15,15-15H85z"/>
+
+    <!-- Side engines -->
+    <rect fill="#FF4500" x="50" y="120" width="10" height="25"/>
+    <path fill="#FFA500" d="M50,145c0,0,2,8,5,8s5-8,5-8H50z"/>
+
+    <rect fill="#FF4500" x="140" y="120" width="10" height="25"/>
+    <path fill="#FFA500" d="M140,145c0,0,2,8,5,8s5-8,5-8H140z"/>
+
+    <!-- Wings -->
+    <path fill="#FFFFFF" stroke="#555555" stroke-width="2" d="M60,110l-40,20h40V110z"/>
+    <path fill="#FFFFFF" stroke="#555555" stroke-width="2" d="M140,110l40,20h-40V110z"/>
+
+    <!-- Fuel tank attachment point -->
+    <rect fill="#888888" x="95" y="80" width="10" height="40"/>
+  </g>
+</svg>
